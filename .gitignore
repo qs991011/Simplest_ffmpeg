@@ -37,3 +37,6 @@
 *.opensdf
 *.sdf
 *.cachefile
+Debug/
+Release/
+.vs
