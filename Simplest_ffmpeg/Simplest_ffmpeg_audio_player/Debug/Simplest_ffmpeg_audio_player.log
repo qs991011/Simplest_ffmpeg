@@ -1,0 +1,4 @@
+﻿  Simplest_ffmpeg_audio_player.cpp
+d:\qs991011\simplest_ffmpeg\simplest_ffmpeg\simplest_ffmpeg_audio_player\simplest_ffmpeg_audio_player.cpp(64): warning C4018: “>”: 有符号/无符号不匹配
+d:\qs991011\simplest_ffmpeg\simplest_ffmpeg\simplest_ffmpeg_audio_player\simplest_ffmpeg_audio_player.cpp(109): warning C4018: “<”: 有符号/无符号不匹配
+  Simplest_ffmpeg_audio_player.vcxproj -> D:\qs991011\Simplest_ffmpeg\Simplest_ffmpeg\Debug\Simplest_ffmpeg_audio_player.exe
